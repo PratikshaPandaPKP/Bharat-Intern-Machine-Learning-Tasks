@@ -1,7 +1,5 @@
-Task 1: House Price Prediction 
+Task 1: Movie Recommendations Using Collaborative Filtering
 
-Task 2: Movie Recommendations Using Collaborative Filtering
+Task 2: Iris Classification
 
-Task 3: Iris Classification
-
-Dataset.rar: Contains dataset of all 3 tasks as a zip file.
+Dataset.rar: Contains dataset of all 2 tasks as a zip file.
